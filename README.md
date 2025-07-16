@@ -1,4 +1,4 @@
-What the Dashboard Shows
+BlinkIT Dashboard
 The BlinkIT Grocery Sales Dashboard provides a clear and interactive view of sales trends, product category performance, and outlet-level insights. It is designed to help business users quickly understand key performance drivers within the BlinkIT grocery ecosystem.
 
 Key Components:
